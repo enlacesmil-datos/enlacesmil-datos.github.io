@@ -1,0 +1,833 @@
+{
+    "nota":  "Emisoras locales por comunidad. Se puede editar a mano: n = nombre, u = dirección del directo (https), logo = imagen (opcional).",
+    "comunidades":  {
+                        "Andalucía":  [
+                                          {
+                                              "n":  "Onda Cero Malaga",
+                                              "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/malaga/master.m3u8",
+                                              "logo":  "https://static.ondacero.es/img/favicon.ico?ondacero"
+                                          },
+                                          {
+                                              "n":  "Cadena SER Sevilla",
+                                              "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "Onda Cero Sevilla",
+                                              "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/sevilla/master.m3u8",
+                                              "logo":  "https://static.ondacero.es/img/favicon.ico?ondacero"
+                                          },
+                                          {
+                                              "n":  "Canal Fiesta Radio",
+                                              "u":  "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3",
+                                              "logo":  "https://www.canalsur.es/css/cssimg/favicon.ico"
+                                          },
+                                          {
+                                              "n":  "Canal Sur Radio Andalucía",
+                                              "u":  "https://rtva-live-radio.flumotion.com/rtva/csr.mp3",
+                                              "logo":  "https://www.canalsur.es/css/cssimg/favicon.ico"
+                                          },
+                                          {
+                                              "n":  "DEEP NU HOUSE Radio by SO\u0026SO",
+                                              "u":  "https://c4.radioboss.fm:18286/dnh",
+                                              "logo":  "https://deepnuhouse.com/wp-content/uploads/2019/02/LOGO-NEW-Trans.png"
+                                          },
+                                          {
+                                              "n":  "Canal Sur Radio Sevilla",
+                                              "u":  "https://rtva-live-radio.flumotion.com/rtva/csrsev.mp3",
+                                              "logo":  "https://www.canalsur.es/css/cssimg/favicon.ico"
+                                          },
+                                          {
+                                              "n":  "Flamenco Radio",
+                                              "u":  "https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "esRadio Granada",
+                                              "u":  "https://azura.abcorp.es/listen/esradio_granada/radio.mp3",
+                                              "logo":  "https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/312819466_491072619722430_641458663595358072_n.jpg?_nc_cat=100\u0026ccb=1-7\u0026_nc_sid=5f2048\u0026_nc_ohc=XkJA5WOxHPwAb5P-aFn\u0026_nc_ht=scontent-mad2-1.xx\u0026oh=00_AfBB8MPCOejIzK8Xxj32SL7lcq5tT4KclbC3n2LZakLQpQ\u0026oe=66271F66"
+                                          },
+                                          {
+                                              "n":  "Only Romantic Radio",
+                                              "u":  "https://stream.laut.fm/only-romantic-radio",
+                                              "logo":  "https://assets.laut.fm/93a555fdbfdebbd23ad4d262bf03881f?t=_80x80"
+                                          },
+                                          {
+                                              "n":  "Canal Sur Radio Musica",
+                                              "u":  "https://rtva-live-radio.flumotion.com/rtva/csm.mp3",
+                                              "logo":  "https://www.canalsur.es/resources/graficos_directos/logoradiomusica.png"
+                                          },
+                                          {
+                                              "n":  "Radio Moscatel 107.1 FM Axarquía - España",
+                                              "u":  "https://axarquia.emisiononline.es/radio/8040/radio.mp3",
+                                              "logo":  ""
+                                          }
+                                      ],
+                        "Aragón":  [
+                                       {
+                                           "n":  "Onda Cero Zaragoza",
+                                           "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/zaragoza/bitrate_1.m3u8",
+                                           "logo":  "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg"
+                                       },
+                                       {
+                                           "n":  "Radio Espiritrompa",
+                                           "u":  "https://radiobot.radioslibres.info/listen/radio_espiritrompa/radio.mp3",
+                                           "logo":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXPk5ciHXcumgeIMO6TPEpU2pwecm6gTxQHT41KrNFSfONVwXkvOeaUp8Ot4gcg78TOy_9nfGm9nwkCMCavJBGan6Rg1LT3OnHZwdOra5dZ18dwWrXpczb9BvEukEx60_Pb3b2F3O6khJXAjgJWbOL3S2WHwrQdq9h-jmGluMScGcGxmJoRVmoSvsST_sR/s400/Logo%20Radio.jpg"
+                                       },
+                                       {
+                                           "n":  "Olimpica Stereo Alicante",
+                                           "u":  "https://eu1.lhdserver.es:3083/stream",
+                                           "logo":  "https://olimpicastereo.es/app/assets/images/logo.png"
+                                       },
+                                       {
+                                           "n":  "European Indie Music Network",
+                                           "u":  "https://sr10.inmystream.it/proxy/european?mp=/stream",
+                                           "logo":  ""
+                                       },
+                                       {
+                                           "n":  "Olimpica Stereo - Burgos",
+                                           "u":  "https://sonic2.sistemahost.es:7036/stream",
+                                           "logo":  "https://olimpicastereo.es/assets/images/logo.png"
+                                       },
+                                       {
+                                           "n":  "Radio La Granja",
+                                           "u":  "https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3",
+                                           "logo":  ""
+                                       },
+                                       {
+                                           "n":  "RNE - Radio 5 Teruel",
+                                           "u":  "https://d131.rndfnk.com/star/crtve/rne1/ara/mp3/128/stream.mp3?cid=01GENZWHP8NT4XFGV9EAFXK644\u0026sid=3LzorIHiRJmfU6ezRe3AzzXp2i9\u0026token=jhCYfjeahwl-vk5VKgxVsS7glC3pJJsQnfZpS0DsBW0\u0026tvf=C6tEtWBN5xhkMTMxLnJuZGZuay5jb20",
+                                           "logo":  ""
+                                       },
+                                       {
+                                           "n":  "RNE 1 - Zaragoza",
+                                           "u":  "https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high?idasset=3894741",
+                                           "logo":  ""
+                                       },
+                                       {
+                                           "n":  "Radio Marca Zaragoza",
+                                           "u":  "https://c6.auracast.net/radio/8020/radio.mp3",
+                                           "logo":  ""
+                                       },
+                                       {
+                                           "n":  "RNE - Radio 5 Huesca",
+                                           "u":  "https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428",
+                                           "logo":  ""
+                                       },
+                                       {
+                                           "n":  "Olimpica Stereo Zaragoza",
+                                           "u":  "https://eu1.lhdserver.es:3081/stream",
+                                           "logo":  "https://www.olimpicastereo.es/assets/images/logo.png"
+                                       },
+                                       {
+                                           "n":  "Radio Topo",
+                                           "u":  "https://radiobot.radioslibres.info/radio/8060/radio.mp3",
+                                           "logo":  "https://radiotopo.org/favicon.ico"
+                                       }
+                                   ],
+                        "Asturias":  [
+                                         {
+                                             "n":  "Onda Cero Gijón",
+                                             "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/gijon/bitrate_1.m3u8",
+                                             "logo":  "https://static.ondacero.es/img/favicon.ico"
+                                         },
+                                         {
+                                             "n":  "Radio MARCA Asturias",
+                                             "u":  "https://streaming.enacast.com/radiomarcaasturiasHD.mp3",
+                                             "logo":  "https://www.marca.com/favicon.ico"
+                                         },
+                                         {
+                                             "n":  "Medea Fm Asturias",
+                                             "u":  "https://sonic.mediatelekom.net/8562/;",
+                                             "logo":  "https://medeafm.es/wp-content/uploads/2023/09/Medeafm-LOGO-23-1.png"
+                                         },
+                                         {
+                                             "n":  "Radio Guateque FM",
+                                             "u":  "https://eu1.lhdserver.es:3219/stream",
+                                             "logo":  "https://guatequefm.com/wp-content/uploads/2025/07/logo.png"
+                                         },
+                                         {
+                                             "n":  "Radio Terrícola. Onda Superviviente.",
+                                             "u":  "https://radios.blumhost.es:8070/stream",
+                                             "logo":  ""
+                                         },
+                                         {
+                                             "n":  "CADENA SER (Aviles)",
+                                             "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILES.mp3",
+                                             "logo":  "https://www.radio.es/images/broadcasts/59/3a/163896/2/c300.png"
+                                         }
+                                     ],
+                        "Canarias":  [
+                                         {
+                                             "n":  "Inolvidable FM",
+                                             "u":  "https://uk1.streamingpulse.com/ssl/inolvidablefm",
+                                             "logo":  ""
+                                         },
+                                         {
+                                             "n":  "RNE Radio 5 Las Palmas",
+                                             "u":  "https://d121.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3?cid=01GEP4X9Y3EYSQDV2G2MRTWGGZ\u0026sid=2KXdzbu8f6MPAaCmdrAfA7scSHY\u0026token=wiTLRflaxoLHseM8UraPggqszRT9NNr2mUoTnKi8TdU\u0026tvf=6Up4UpPDOxdkMTIxLnJuZGZuay5jb20",
+                                             "logo":  "https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-5_color.svg"
+                                         },
+                                         {
+                                             "n":  "EsRadio Tenerife",
+                                             "u":  "https://panel5.soydigital.fm/8024/live?1678446871465",
+                                             "logo":  ""
+                                         },
+                                         {
+                                             "n":  "EMISORA DIOCESANA Radios Tamaraceite",
+                                             "u":  "https://enacast.com/radiotamaraceite/streams/HD",
+                                             "logo":  "https://ik.imagekit.io/7ftrkrun31/enacast/logos/2025/04/11/dioce_pkaFAbL.png?tr=w-256,h-None,fo-auto"
+                                         },
+                                         {
+                                             "n":  "COPE Tenerife",
+                                             "u":  "https://wecast09-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3",
+                                             "logo":  "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png"
+                                         },
+                                         {
+                                             "n":  "Bakanos FM 97.0 - 97.1",
+                                             "u":  "https://stream.zeno.fm/cxmx1evtzwzuv",
+                                             "logo":  "https://bakanosfm.com/wp-content/uploads/2021/12/BAKANOSFM-logo-finalpropuestas-collection-color-04.png.webp"
+                                         },
+                                         {
+                                             "n":  "Xanadú Radio Tenerife",
+                                             "u":  "https://server8.emitironline.com:10852/radio.mp3?1646071824637",
+                                             "logo":  "https://4.bp.blogspot.com/-P5P4KyqNUUI/YHhg6fV0bfI/AAAAAAAABYY/7MRtv5gmp9wyy8gEvKlLnP0O_8ZztmUewCK4BGAYYCw/s1600/webportada.jpg"
+                                         },
+                                         {
+                                             "n":  "Atlántico Radio 88.3 FM",
+                                             "u":  "https://streaming.atlanticoradio.es/atlanticoradio",
+                                             "logo":  "https://ugc.production.linktr.ee/fee0ac13-c9a6-498d-a763-0182966a58a7_ATLR-LOGO.png?io=true\u0026size=ava"
+                                         },
+                                         {
+                                             "n":  "Oasis FM Tenerife",
+                                             "u":  "https://stream3.themediasite.co.uk:8128/",
+                                             "logo":  "https://www.oasisfm.com/front/img/logo-sm.jpg"
+                                         },
+                                         {
+                                             "n":  "RPV Gran Canaria",
+                                             "u":  "https://stream.radio-pv.com/",
+                                             "logo":  ""
+                                         },
+                                         {
+                                             "n":  "Canal 4 Tenerife",
+                                             "u":  "https://panel5.soydigital.fm/8024/live",
+                                             "logo":  "https://www.canal4tenerife.tv/wp-content/uploads/2023/11/logo-canal4-digital@150.webp"
+                                         },
+                                         {
+                                             "n":  "Kiss FM Canarias",
+                                             "u":  "https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3",
+                                             "logo":  ""
+                                         }
+                                     ],
+                        "Cantabria":  [
+                                          {
+                                              "n":  "Los 40 Santander",
+                                              "u":  "https://22183.live.streamtheworld.com/LOS40_SANTANDERAAC.aac",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "Radio Altamira",
+                                              "u":  "https://eu1.lhdserver.es:3239/stream",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "ArcoFM",
+                                              "u":  "https://hisparadio.duckdns.org/stream/1/stream.mp3",
+                                              "logo":  "https://arcofm.com/favicon"
+                                          },
+                                          {
+                                              "n":  "Pakito FM",
+                                              "u":  "https://nodo102.liveradio.com.es/8016/stream",
+                                              "logo":  "https://play-lh.googleusercontent.com/5NDZ2C3_z3WcPvoNAk_6MWQWqg0jMPOC-mKdBaRRuIpKTIbDGLTPHl3mvED-062Wz9s=w240-h480-rw"
+                                          },
+                                          {
+                                              "n":  "Cantabria Radio",
+                                              "u":  "https://cantabria.radioca.st/stream",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "Radio Meruelo",
+                                              "u":  "https://ns100.emisionlocal.com/proxy/radiomeruelo?mp=/stream",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "Onda Cero Castro Urdiales",
+                                              "u":  "https://server8.emitironline.com:10854/;",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "COPE Más Santander",
+                                              "u":  "https://wecast-bl01.flumotion.com/copesedes/santander-mas.mp3",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "Radio Flow Santander",
+                                              "u":  "https://topradio.uno:8018/live?1780468523684",
+                                              "logo":  "https://www.radioflow.es/flowfuegotg.png"
+                                          },
+                                          {
+                                              "n":  "Cadena SER Santander",
+                                              "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3",
+                                              "logo":  "https://cadenaser00.epimg.net/favicon.png"
+                                          },
+                                          {
+                                              "n":  "PuntalRadio",
+                                              "u":  "https://a5.asurahosting.com:6700/radio.mp3",
+                                              "logo":  ""
+                                          },
+                                          {
+                                              "n":  "Radio Studio 88 Cantabria",
+                                              "u":  "https://hisparadio.duckdns.org/stream/2/stream.mp3",
+                                              "logo":  ""
+                                          }
+                                      ],
+                        "Castilla-La Mancha":  [
+                                                   {
+                                                       "n":  "Remember Vip Techno",
+                                                       "u":  "https://stream-153.zeno.fm/xilwjn4t17qvv",
+                                                       "logo":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibV9pYnEabVR6GlnZKa4FUlFCM1Pt9ak26YCKncCohqDgq8_9gl_71ELh1ccHa5ChALsP2WLkprYZzKusvxROrASELi4UaEjhs6JZe-i9BlVWF9KR841zc3QR5SMkSzgOZ5FtmBeSiq7pZeGK-pfnkv1SAEeAIEoidYxUM9R3jt7M4U8ZbRQiWjQOQmrE/s176/channels4_profile.jpg"
+                                                   },
+                                                   {
+                                                       "n":  "Remember4U",
+                                                       "u":  "https://radio.remember4u.es/live",
+                                                       "logo":  "https://remember4u.alwaysdata.net/assets/icons/favicon-32x32.png"
+                                                   },
+                                                   {
+                                                       "n":  "Radio Serranía",
+                                                       "u":  "https://stream-179.surfernetwork.com/suyydyfgwf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdXl5ZHlmZ3dmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1fbnJPbU5IVDB1UkRKbWI5Q2p4OFEiLCJpYXQiOjE3OTQ0NDIwNzAsImV4cCI6MTc5NDQ0MjEzMH0.en0S-PWHSc46HPEVJooQcS-N6pFVuFIAGNFe_KTpx9o",
+                                                       "logo":  ""
+                                                   },
+                                                   {
+                                                       "n":  "Radio Puebla",
+                                                       "u":  "https://server10.emitironline.com:9321/",
+                                                       "logo":  "https://img-static.ivoox.com/index.php?w=175\u0026url=https://static-1.ivoox.com/canales/3/5/4/e/354e1e53d3a5e20b38396e68d1693a83_XXL.jpg\u0026f=webp"
+                                                   },
+                                                   {
+                                                       "n":  "radio 65",
+                                                       "u":  "https://stream-166.zeno.fm/sf0qn4ddftktv",
+                                                       "logo":  "https://zenoimages.s3.us-west-001.backblazeb2.com/ee6f4304-39ee-40d1-a899-1de3998b4153/images/logo?keep=w\u0026resize=350x350"
+                                                   },
+                                                   {
+                                                       "n":  "AirmaxFM",
+                                                       "u":  "https://streaming2.elitecomunicacion.es:8014/stream",
+                                                       "logo":  "https://digitalfly.es/wp-content/uploads/2022/07/logo-web-2.png"
+                                                   },
+                                                   {
+                                                       "n":  "Onda Poligono",
+                                                       "u":  "https://icecast.ondapoligono.org/stream",
+                                                       "logo":  "https://www.ondapoligono.org/favicon.ico"
+                                                   }
+                                               ],
+                        "Castilla y León":  [
+                                                {
+                                                    "n":  "Cadena SER - Radio Zamora",
+                                                    "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3",
+                                                    "logo":  "https://cadenaser.com/pf/resources/img/favicon.png?d=325"
+                                                },
+                                                {
+                                                    "n":  "copesal",
+                                                    "u":  "https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3",
+                                                    "logo":  ""
+                                                },
+                                                {
+                                                    "n":  "Cadena SER - Miranda de Ebro",
+                                                    "u":  "https://25483.live.streamtheworld.com/SER_ASO_MIRANDA_EBROAAC_SC",
+                                                    "logo":  "https://cadenaser00.epimg.net/favicon.png"
+                                                },
+                                                {
+                                                    "n":  "DOOM Radio - Beats to Rip/Tear to",
+                                                    "u":  "https://dcealopez.es/rip-tear-radio-live",
+                                                    "logo":  "https://dcealopez.es/rip-tear-radio/img/favicon.png"
+                                                },
+                                                {
+                                                    "n":  "Marca Valladolid",
+                                                    "u":  "https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3",
+                                                    "logo":  "https://radiomarcavalladolid.com/wp-content/uploads/2021/08/cropped-unnamed-180x180.png"
+                                                },
+                                                {
+                                                    "n":  "40.200 Radio Villa",
+                                                    "u":  "https://sonic.sistemahost.es/40200radiovilla/stream",
+                                                    "logo":  "https://www.40200radiovilla.es/images/logo_original.jpg"
+                                                },
+                                                {
+                                                    "n":  "RNE - R5 --\u003e CYL",
+                                                    "u":  "https://d131.rndfnk.com/star/crtve/rne5/vll/mp3/128/stream.mp3?cid=01GEPV7WKAZ76GE8RY96MABK2Q\u0026sid=2KOwF9j2zTSpS2d7Vzm2JlIGObT\u0026token=OFo8rpIZ5IV_j9VLJVCWOFNFyzX5dnsD1-yebzJNl7Q\u0026tvf=uIWMDWLROhdkMTMxLnJuZGZuay5jb20",
+                                                    "logo":  ""
+                                                },
+                                                {
+                                                    "n":  "Tormes FM",
+                                                    "u":  "https://str1.mediatelekom.net/proxy/tormesfm/stream",
+                                                    "logo":  "https://tormesfm.com/wp-content/uploads/2025/09/Radio-tormes.png"
+                                                },
+                                                {
+                                                    "n":  "Berea FM 92.1",
+                                                    "u":  "https://eu1.lhdserver.es:8039/stream",
+                                                    "logo":  "https://players.lhdserver.es/player/radioberea/build/logoradio.jpg"
+                                                },
+                                                {
+                                                    "n":  "Vive Radio",
+                                                    "u":  "https://streaming.viveradio.es/viveburgos",
+                                                    "logo":  "https://www.viveradio.es/dist/images/favicons/favicon.ico"
+                                                },
+                                                {
+                                                    "n":  "Cadena SER - Radio Salamanca",
+                                                    "u":  "https://27903.live.streamtheworld.com/SER_SALAMANCAAAC.aac",
+                                                    "logo":  "https://listaradio.com/storage/radios/2883/3162/conversions/RadioSalamanca-lg.webp"
+                                                },
+                                                {
+                                                    "n":  "Ser Soria",
+                                                    "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3",
+                                                    "logo":  "https://cadenaser.com/pf/resources/img/favicon.png?d=903"
+                                                }
+                                            ],
+                        "Cataluña":  [
+                                         {
+                                             "n":  "Cadena SER - Ràdio Barcelona",
+                                             "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3",
+                                             "logo":  "https://cadenaser00.epimg.net/favicon.png"
+                                         },
+                                         {
+                                             "n":  "RAC1 +1",
+                                             "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3",
+                                             "logo":  "https://www.rac1.cat/apple-touch-icon-120x120.png"
+                                         },
+                                         {
+                                             "n":  "Catalunya Informació (Catinfo)",
+                                             "u":  "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3",
+                                             "logo":  "https://statics.ccma.cat/img/favicons/catinfo-favicon-96x96.png"
+                                         },
+                                         {
+                                             "n":  "Funky Corner Radio (Spain)",
+                                             "u":  "https://ais-sa2.cdnstream1.com/2447_96.aac",
+                                             "logo":  ""
+                                         },
+                                         {
+                                             "n":  "iCat FM",
+                                             "u":  "https://shoutcast.ccma.cat/ccma/icatHD.mp3",
+                                             "logo":  "https://statics.ccma.cat/img/favicons/icat-favicon-96x96.png"
+                                         },
+                                         {
+                                             "n":  "Gran Via Radio Barcelona",
+                                             "u":  "https://servidor14-3.brlogic.com:7066/live",
+                                             "logo":  "https://public-rf-upload.minhawebradio.net/246535/logo/53a76bd0c2369b2c46a538b72197b04c.png"
+                                         },
+                                         {
+                                             "n":  "Plexus 80s Hits - PlexusRadio.com",
+                                             "u":  "https://stream.zeno.fm/ah6v0aye22quv",
+                                             "logo":  "https://cdn-profiles.tunein.com/s301726/images/logod.png"
+                                         },
+                                         {
+                                             "n":  "Flamenco Barcelona",
+                                             "u":  "https://stream.zeno.fm/ya41fhze22quv",
+                                             "logo":  "https://cdn-profiles.tunein.com/s303658/images/logod.png"
+                                         },
+                                         {
+                                             "n":  "Catalunya Música (CatMúsica)",
+                                             "u":  "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3",
+                                             "logo":  "https://statics.ccma.cat/img/favicons/catmusica-favicon-96x96.png"
+                                         },
+                                         {
+                                             "n":  "scannerFM",
+                                             "u":  "https://eu10.fastcast4u.com/scannerfm",
+                                             "logo":  ""
+                                         },
+                                         {
+                                             "n":  "Radio Remember",
+                                             "u":  "https://stream-164.zeno.fm/vth4gamdntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dGg0Z2FtZG50enV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBwMjdydG5LU1J5Uk1WdHVCSkJjcEEiLCJpYXQiOjE3NDA4NzY2ODksImV4cCI6MTc0MDg3Njc0OX0.C895dopT7rEuOlpWiF7fF2IwhjTj5Oje8WzcLOdV0G0",
+                                             "logo":  "https://images.zeno.fm/oFd_nzXU9ipqM0xH5uo91hdsSfpF3J_mFCaNpLT_bPc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdsNVBoMEFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdwOExCd0FrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczNDU5ODIyNTAwMA.webp"
+                                         },
+                                         {
+                                             "n":  "Radio Pineda 94.6",
+                                             "u":  "https://streaming.enacast.com/radiopineda56.mp3",
+                                             "logo":  "https://www.radiopineda.cat/sites/default/files/logo_radio_pineda_header_3.png"
+                                         }
+                                     ],
+                        "Ceuta y Melilla":  [
+                                                {
+                                                    "n":  "RTVCE",
+                                                    "u":  "https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8",
+                                                    "logo":  "https://www.rtvce.es/media/rtvce/images/2021/01/01/2021010100000059160.jpg"
+                                                }
+                                            ],
+                        "Comunidad de Madrid":  [
+                                                    {
+                                                        "n":  "RNE Radio Nacional",
+                                                        "u":  "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
+                                                        "logo":  "https://www.rtve.es/favicon.ico"
+                                                    },
+                                                    {
+                                                        "n":  "80 EXITOS",
+                                                        "u":  "https://80sexitos.stream.laut.fm/80sexitos",
+                                                        "logo":  ""
+                                                    },
+                                                    {
+                                                        "n":  "Onda Cero Madrid",
+                                                        "u":  "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+                                                        "logo":  "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg"
+                                                    },
+                                                    {
+                                                        "n":  "esRadio Madrid",
+                                                        "u":  "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+                                                        "logo":  "https://s.libertaddigital.com/images/es-radio-directo.jpg"
+                                                    },
+                                                    {
+                                                        "n":  "80s 90s Absolute Hits",
+                                                        "u":  "https://live.streamthe.world/absolutehits",
+                                                        "logo":  "https://mytuner-radio.com/favicon.ico"
+                                                    },
+                                                    {
+                                                        "n":  "Radio Marca Madrid",
+                                                        "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC",
+                                                        "logo":  ""
+                                                    },
+                                                    {
+                                                        "n":  "LOS40 Madrid (93.9FM)",
+                                                        "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MADRID.mp3",
+                                                        "logo":  ""
+                                                    },
+                                                    {
+                                                        "n":  "RADIOLE (España)",
+                                                        "u":  "https://20043.live.streamtheworld.com/RADIOLE.mp3",
+                                                        "logo":  ""
+                                                    },
+                                                    {
+                                                        "n":  "Radio Libertad",
+                                                        "u":  "https://server9.emitironline.com:19482/stream?cb=1708722000350",
+                                                        "logo":  "https://radiolibertad.es/wp-content/uploads/2022/08/Logo_RadioLibertad_300px.png"
+                                                    },
+                                                    {
+                                                        "n":  "Costa Del Mar Smooth Jazz",
+                                                        "u":  "https://radio4.cdm-radio.com:18024/stream-mp3-Smooth",
+                                                        "logo":  ""
+                                                    },
+                                                    {
+                                                        "n":  "Maxima Fm",
+                                                        "u":  "https://en-directo.frequence-radio.com/amp/redirect.php?radio=maxima-fm",
+                                                        "logo":  ""
+                                                    },
+                                                    {
+                                                        "n":  "Radio España",
+                                                        "u":  "https://stream-280.surfernetwork.com/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjdOOUF1SGpaUjIyYU9CTW52ZnNGb3ciLCJpYXQiOjE3OTQ0NTg2ODQsImV4cCI6MTc5NDQ1ODc0NH0.Ap-S1ZsdQA6e8iEzM7Kr-U8AoS6b1HmVuo7HT1DH0cg",
+                                                        "logo":  "https://cdn.onlineradiobox.com/img/l/9/109189.v2.png"
+                                                    }
+                                                ],
+                        "Comunidad Valenciana":  [
+                                                     {
+                                                         "n":  "Remember the music FM 96.6",
+                                                         "u":  "https://eu1.lhdserver.es:9041/stream",
+                                                         "logo":  ""
+                                                     },
+                                                     {
+                                                         "n":  "BikiniFM",
+                                                         "u":  "https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm.mp3",
+                                                         "logo":  "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/04134801/logo-BIKINI-FM-web-1.png"
+                                                     },
+                                                     {
+                                                         "n":  "Soul FM",
+                                                         "u":  "https://soul-fm.com/live/soul.fm",
+                                                         "logo":  "https://soul-fm.com/favicon.png"
+                                                     },
+                                                     {
+                                                         "n":  "À Punt",
+                                                         "u":  "https://fastly.live.brightcove.com/1854461588069069227/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NTQ0NjE1ODgwNjkwNjkyMjcifQ.RKqA-z0MRntFVph2G3tE9YzBp7vfdMXcynOKpyqvZTg/playlist-hls-dvr.m3u8",
+                                                         "logo":  "https://www.apuntmedia.es/favicon.ico"
+                                                     },
+                                                     {
+                                                         "n":  "Remember Radio",
+                                                         "u":  "https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB",
+                                                         "logo":  "https://cdn-profiles.tunein.com/s219117/images/logod.jpg"
+                                                     },
+                                                     {
+                                                         "n":  "80s Radio",
+                                                         "u":  "https://stream-178.surfernetwork.com/441fkks8ya0uv?infpo-256mp3-ufre",
+                                                         "logo":  "https://dbs.radioline.fr/pictures/radio_b63e9690e33008aef26971db4c08613a/logo600.jpg"
+                                                     },
+                                                     {
+                                                         "n":  "OndaCero Castellón",
+                                                         "u":  "https://19993.live.streamtheworld.com/OC_CASTELLONAAC/HLS/playlist.m3u8",
+                                                         "logo":  "https://www.radio.es/175/onda-cero-madrid.png?version=06d03746c87e0f9821a411547d178ce3a4e58033"
+                                                     },
+                                                     {
+                                                         "n":  "Sonido de Valencia Radio",
+                                                         "u":  "https://radiostreamingserver.com/listen/sonido_de_valencia_radio/radio.mp3",
+                                                         "logo":  "https://radiostreamingserver.com/static/uploads/album_art.1753096093.jpg"
+                                                     },
+                                                     {
+                                                         "n":  "Activa FM Valencia",
+                                                         "u":  "https://stream.emisorasmusicales.net/radio/8000/activafm.mp3",
+                                                         "logo":  ""
+                                                     },
+                                                     {
+                                                         "n":  "RNE Radio 5 Valencia",
+                                                         "u":  "https://d131.rndfnk.com/star/crtve/rne5/vlc/aac/128/stream.aac?cid=01GEP70HQKHM3WJB5GHG662KX3\u0026sid=2MHsjXUN7pFK03vBbXrL08rOPRJ\u0026token=Gu5PoCVPt238lI_sOeSzHZPRNJrKj8eeS4mPRqXzSX4\u0026tvf=AvB-hceGRxdkMTMxLnJuZGZuay5jb20",
+                                                         "logo":  "https://assets.radioplayer.org/724/724528/600/600/kywx97am.png"
+                                                     },
+                                                     {
+                                                         "n":  "Dark City Signal",
+                                                         "u":  "https://audiostream.hkprime.com/stream",
+                                                         "logo":  "https://radio.hkprime.com/favicon.ico"
+                                                     },
+                                                     {
+                                                         "n":  "Play Radio Valencia",
+                                                         "u":  "https://radio1.serviciosderadio.com/listen/playradio/web.mp3",
+                                                         "logo":  "https://playradiovalencia.es/wp-content/uploads/2023/07/cropped-PLAY-RADIO_Logo-02-192x192.png"
+                                                     }
+                                                 ],
+                        "Extremadura":  [
+                                            {
+                                                "n":  "Ondacero Badajo",
+                                                "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/badajoz/bitrate_1.m3u8",
+                                                "logo":  ""
+                                            },
+                                            {
+                                                "n":  "Cadena SER Extremadura",
+                                                "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_EXTREMADURAAAC.aac",
+                                                "logo":  ""
+                                            },
+                                            {
+                                                "n":  "Radio La Botica",
+                                                "u":  "https://radiolabotica.emisiononline.es/listen/radiolabotica/radio.mp3",
+                                                "logo":  ""
+                                            }
+                                        ],
+                        "Galicia":  [
+                                        {
+                                            "n":  "COPE A CORUÑA",
+                                            "u":  "https://wecast-bl01.flumotion.com/copesedes/lacoruna.mp3",
+                                            "logo":  "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png"
+                                        },
+                                        {
+                                            "n":  "AnimeRadio.GAL",
+                                            "u":  "https://stream.animeradio.gal/listen/animeradio.gal/radio.mp3",
+                                            "logo":  "https://www.animeradio.gal/img/favicon.png"
+                                        },
+                                        {
+                                            "n":  "Cadena SER Coruña",
+                                            "u":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3",
+                                            "logo":  "https://cadenaser.com/pf/resources/img/favicon.png?d=946"
+                                        },
+                                        {
+                                            "n":  "RNE Radio 5 Galicia",
+                                            "u":  "https://d121.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3?cid=01GEP53FAF08XXF9WHNDFYA8SJ\u0026sid=3Lyy3rutwUSQDD32w5V9cAsjOAd\u0026token=0wIsp3egd9y8hVkzVnUy1vmiCzjHTTA7dSSiytJwRtw\u0026tvf=-loytq815xhkMTIxLnJuZGZuay5jb20",
+                                            "logo":  ""
+                                        },
+                                        {
+                                            "n":  "Onda Cero Vigo",
+                                            "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/vigo/master.m3u8",
+                                            "logo":  "https://static.ondacero.es/img/favicon.ico?ondacero"
+                                        },
+                                        {
+                                            "n":  "Radio Galega Música",
+                                            "u":  "https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8",
+                                            "logo":  "https://d1oldvcs710rcb.cloudfront.net/fly/65d34d426dcc48cd806b5d7cbf038e3b.png"
+                                        },
+                                        {
+                                            "n":  "RNE Radio 1 Galicia",
+                                            "u":  "https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high",
+                                            "logo":  ""
+                                        },
+                                        {
+                                            "n":  "Onda Cero A Coruña",
+                                            "u":  "https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.m3u8",
+                                            "logo":  "https://static.ondacero.es/img/favicon.ico?ondacero"
+                                        },
+                                        {
+                                            "n":  "Pontevedra Viva",
+                                            "u":  "https://server8.emitironline.com:9402/radio",
+                                            "logo":  "https://www.pontevedraviva.com/uploads/static/pontevedraviva/dist/logos/apple-touch-icon-114x114.png"
+                                        },
+                                        {
+                                            "n":  "Radio Festa",
+                                            "u":  "https://server8.emitironline.com:18743/",
+                                            "logo":  ""
+                                        },
+                                        {
+                                            "n":  "SONS iradio",
+                                            "u":  "https://pl.crystalweb.net:6640/stream",
+                                            "logo":  "https://ifactoria.net/images/web/iradio/sons-iradio.jpg"
+                                        },
+                                        {
+                                            "n":  "Cuac FM",
+                                            "u":  "https://streaming.cuacfm.org/cuacfm-128k.mp3",
+                                            "logo":  ""
+                                        }
+                                    ],
+                        "Illes Balears":  [
+                                              {
+                                                  "n":  "Pure Ibiza Radio",
+                                                  "u":  "https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio",
+                                                  "logo":  "https://www.radio.es/images/broadcasts/a2/7d/103588/1/c300.png"
+                                              },
+                                              {
+                                                  "n":  "Café del Mar Radio",
+                                                  "u":  "https://streams.radio.co/se1a320b47/listen",
+                                                  "logo":  "https://cdmspace.fra1.digitaloceanspaces.com/495c49ed63d48d73585af236c13b19ae.jpg"
+                                              },
+                                              {
+                                                  "n":  "Ibiza Global Classics",
+                                                  "u":  "https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3",
+                                                  "logo":  "https://www.ibizaglobalradio.com/dist/img/logo-igr-20.svg"
+                                              },
+                                              {
+                                                  "n":  "Ibiza Sonica Club",
+                                                  "u":  "https://ibizasonica.streaming-pro.com:8011/sonicaclub",
+                                                  "logo":  ""
+                                              },
+                                              {
+                                                  "n":  "Ibiza World Club Tour Channel",
+                                                  "u":  "https://ibiza-audiomediaradio.radioca.st/ibiza",
+                                                  "logo":  "https://www.hits1radio.com/wp-content/uploads/2020/06/IBIZA-World-Club-1-100x100.png"
+                                              },
+                                              {
+                                                  "n":  "Ibiza Sonica",
+                                                  "u":  "https://ibizasonica.streaming-pro.com:8000/ibizasonica",
+                                                  "logo":  "https://ibizasonica.com/favicon.ico"
+                                              },
+                                              {
+                                                  "n":  "Hits 1 Ibiza",
+                                                  "u":  "https://hits1spain-audiomediaradio.radioca.st/hits1mallorca",
+                                                  "logo":  "https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg"
+                                              },
+                                              {
+                                                  "n":  "#1 Splash Lounge",
+                                                  "u":  "https://ais-sa2.cdnstream1.com/2209_128.mp3",
+                                                  "logo":  ""
+                                              },
+                                              {
+                                                  "n":  "Graba Radio Ibiza",
+                                                  "u":  "https://radio.grabamusic.com/gmr-hd",
+                                                  "logo":  "https://cdn-profiles.tunein.com/s269847/images/logod.jpg"
+                                              },
+                                              {
+                                                  "n":  "Blue Marlin Ibiza",
+                                                  "u":  "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
+                                                  "logo":  "https://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/_lib/views/var/public/sprites/common-map-2x.png?_v=108_0"
+                                              },
+                                              {
+                                                  "n":  "Ibiza SoniCalm",
+                                                  "u":  "https://ibizasonica.streaming-pro.com:8014/sonicalm",
+                                                  "logo":  "https://ibizasonica.com/favicon.ico"
+                                              },
+                                              {
+                                                  "n":  "Ibiza Sonica | Balearic Sound",
+                                                  "u":  "https://n0f.radiojar.com/st0wc9kut72vv?rj-ttl=5\u0026rj-tok=AAABnOZsKD0AW0rZ9J3Rrp0EdQ",
+                                                  "logo":  "https://d2zc6zei1a4ice.cloudfront.net/media/cover-image/383799137ace498e9858c9b55c78d916.600x600_q85_crop.png?Expires=1788912000\u0026Signature=EGHcN200d31hhXVpo5VkiAQgug3DQslWq9iz8BqaJypoTyg9cmzsgUiu9K1Nm9WQ6ugHVPvjrGsYgm9MGy-4arX8Q~z2JwR7l1tGoYmxoOA3N-x3HsCbN9NgfcLXrIYiUxdreya2M~Xb4LhS1Fngifj4TZbumbUnF5noueBGtnMnhcnfAIn2JBA13KRJXpKV~CBgFO9u-7njv6Ds-H3ZjmuOa8CrbLWs71SeHzqKBDYYq7JL6oJKQr3qSPqYoHbiOZJht454n-IM3ssbx5DhLDiJud69EfPd9zOYE-SLBJ7XkXEGuXIYcoXwryQm1P9~W18nakz8VXqLuIOcWLevrQ__\u0026Key-Pair-Id=KWDD4JQ4TPZC8"
+                                              }
+                                          ],
+                        "La Rioja":  [
+
+                                     ],
+                        "Navarra":  [
+
+                                    ],
+                        "País Vasco":  [
+                                           {
+                                               "n":  "Radio Vitoria",
+                                               "u":  "https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8",
+                                               "logo":  "https://images14.eitb.eus/multimedia/recursos/generales/streaming/logo_zuzenean_radio_vitoria.png"
+                                           },
+                                           {
+                                               "n":  "Radio Nervión",
+                                               "u":  "https://gruponervion.streaming-pro.com:6131/",
+                                               "logo":  ""
+                                           },
+                                           {
+                                               "n":  "Activate FM",
+                                               "u":  "https://streaming12.elitecomunicacion.es:8085/stream",
+                                               "logo":  "https://i.ibb.co/4gXcthYS/S6-AVo-Pd-400x400.jpg"
+                                           },
+                                           {
+                                               "n":  "Onda Cero Bilbao",
+                                               "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/bilbao/bitrate_1.m3u8",
+                                               "logo":  ""
+                                           },
+                                           {
+                                               "n":  "Formula Hit",
+                                               "u":  "https://sonic.sistemahost.es/8176/stream?1785319144024",
+                                               "logo":  "https://www.formulahit.com/images/formulahit_blanco.png"
+                                           },
+                                           {
+                                               "n":  "Radio TX",
+                                               "u":  "https://radiotx.radioca.st/stream",
+                                               "logo":  "https://cdn.onlineradiobox.com/img/l/8/71728.v13.png"
+                                           },
+                                           {
+                                               "n":  "Mozoilo Irratia",
+                                               "u":  "https://a10.asurahosting.com:9060/radio.mp3",
+                                               "logo":  "https://mozoiloirratia.eus/wp-content/uploads/2020/07/freepik_br_881d32e0-1db0-477c-8b8b-729e907342ac-320x320.png"
+                                           },
+                                           {
+                                               "n":  "Segura irratia",
+                                               "u":  "https://soporte.ikernet.net:6443/listen/segura_irratia/radio.mp3",
+                                               "logo":  "https://segurairratia.eus/wp-content/uploads/2017/05/cropped-icon_segura-4-180x180.png"
+                                           },
+                                           {
+                                               "n":  "Hala Bedi 1",
+                                               "u":  "https://stream.halabedi.eus/1B",
+                                               "logo":  "https://halabedi.eus/wp-content/uploads/2020/06/cropped-hb_logo_2020-192x192.png"
+                                           }
+                                       ],
+                        "Región de Murcia":  [
+                                                 {
+                                                     "n":  "Azul FM Murcia",
+                                                     "u":  "https://azura5.emisiononline.es:8000/azulfm986",
+                                                     "logo":  "https://azulfm.com.es/azulfmlogo-800.jpg"
+                                                 },
+                                                 {
+                                                     "n":  "OndaCERO Murcia",
+                                                     "u":  "https://28563.live.streamtheworld.com/OC_MURCIAAAC/HLS/playlist.m3u8?dist=Otros-Agregadores\u0026ttag=program%3Amas-de-uno",
+                                                     "logo":  "https://upload.wikimedia.org/wikipedia/commons/d/da/Onda-cero-logo.png"
+                                                 },
+                                                 {
+                                                     "n":  "Onda Regional de Murcia",
+                                                     "u":  "https://crmlive.redctnet.es/liveedge/orm/orm/chunklist_w329392737.m3u8",
+                                                     "logo":  "https://www.orm.es/favicon.ico"
+                                                 },
+                                                 {
+                                                     "n":  "RNE Murcia",
+                                                     "u":  "https://d121.rndfnk.com/star/crtve/rne1/mur/mp3/128/stream.mp3?cid=01GEP3ZKY6YSV20P6RMNTKNDD6\u0026sid=2ar2W2AJRHCleglLtfnn6nLklsU\u0026token=25qdZ9PRjFVlFZkLiFrLLCHGs5cDbRXkhlVCjXwNN8Q\u0026tvf=kGi_U96sqRdkMTIxLnJuZGZuay5jb20",
+                                                     "logo":  "https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-nacional_color.svg"
+                                                 },
+                                                 {
+                                                     "n":  "Onda Regional Música",
+                                                     "u":  "https://crmlive.redctnet.es/liveedge/orm/ormmusical/chunklist_w835504041.m3u8",
+                                                     "logo":  "https://www.orm.es/favicon.ico"
+                                                 },
+                                                 {
+                                                     "n":  "Ondacero Cartagena",
+                                                     "u":  "https://atres-live.ondacero.es/live/delegaciones/oc/cartagena/bitrate_1.m3u8",
+                                                     "logo":  "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg"
+                                                 },
+                                                 {
+                                                     "n":  "FORMULA 10 MUSICA",
+                                                     "u":  "https://formula10musica.stream.laut.fm/formula10musica",
+                                                     "logo":  ""
+                                                 },
+                                                 {
+                                                     "n":  "Cadena Ser Cartagena",
+                                                     "u":  "https://21223.live.streamtheworld.com/SER_CARTAGENA.mp3",
+                                                     "logo":  "https://cadenaser00.epimg.net/favicon.png"
+                                                 },
+                                                 {
+                                                     "n":  "Color Estéreo 103.7 FM",
+                                                     "u":  "https://azura5.emisiononline.es/listen/colorestereo/radio.mp3",
+                                                     "logo":  ""
+                                                 },
+                                                 {
+                                                     "n":  "Onda Cieza",
+                                                     "u":  "https://sonic.mediatelekom.net/8436/stream",
+                                                     "logo":  "https://img-static.ivoox.com/index.php?w=255\u0026url=https://static-2.ivoox.com/canales/9/5/2/2/9461471362259_XXL.jpg"
+                                                 },
+                                                 {
+                                                     "n":  "Onda Regional Musica (Murcia)",
+                                                     "u":  "https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8",
+                                                     "logo":  "https://www.orm.es/img/favicon-32x32.png"
+                                                 },
+                                                 {
+                                                     "n":  "DAVID MADRID RAMIREZ",
+                                                     "u":  "https://stream.zeno.fm/k5hwh3uuanxtv",
+                                                     "logo":  "https://prnt.sc/HQGTbFtJ86eF"
+                                                 }
+                                             ]
+                    }
+}
