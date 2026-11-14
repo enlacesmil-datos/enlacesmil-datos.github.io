@@ -1,0 +1,1393 @@
+{
+    "nota":  "Televisión autonómica y local por comunidad, e internacional (Europa y América). Fuente: TDTChannels (github.com/LaQuay/TDTChannels, licencia Apache 2.0), comprobadas el 14-11-2026. n = nombre, m = directo m3u8, w = web del canal, logo = imagen.",
+    "comunidades":  {
+                        "Andalucía":  [
+                                          {
+                                              "n":  "7TV Aljarafe",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVALJARAFE.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/sevilla-aljarafe/aljarafe-7tv-directo/20250731093841001361.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Andalucía",
+                                              "m":  "https://especial7tv.gestec-video.com/hls/regional.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/andalucia/directo/20250718114601000917.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Arcos",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVARCOS.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/cadiz-arcos/arcos-7tv-directo/20250731092124001344.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Cádiz",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/cadiz/cadiz-7tv-directo/20250723092939001110.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Campo de Gibraltar",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVALGECIRAS.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/cadiz-campodegibraltar/campo-gibraltar-7tv-directo/20250731092253001346.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Córdoba",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/cordoba/cordoba-7tv-directo/20250723094526001122.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Huelva",
+                                              "m":  "https://streaming004.gestec-video.com/hls/regional.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/huelva/huelva-7tv-directo/20250723121506001159.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Jaén",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/jaen/jaen-7tv-directo/20250723123031001175.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Jerez",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/cadiz-jerez/jerez-7tv-directo/20250731092738001352.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Linares",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVLINARES.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/jaen-linares/linares-7tv-directo/20250731093604001357.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Málaga",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/granada/malaga-7tv-directo/20250723140142001188.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Rota",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVROTA.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/cadiz-rota/rota-7tv-directo/20250731112132001354.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV San Fernando",
+                                              "m":  "https://streaming004.gestec-video.com/hls/7TVSANFERNANDO.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/cadiz-sanfernando/san-fernando-7tv-directo/20250724085255001240.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "7TV Sevilla",
+                                              "m":  "https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8",
+                                              "w":  "https://www.7tvandalucia.es/video/sevilla/sevilla-7tv-directo/20250723144948001214.html",
+                                              "logo":  "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "8TV Chiclana",
+                                              "m":  "https://s.emisoras.tv:8081/chiclana/index.m3u8",
+                                              "w":  "https://8cadiz.es/directo-chiclana/",
+                                              "logo":  "https://graph.facebook.com/8tvcadiz/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "8TV La Janda",
+                                              "m":  "https://s.emisoras.tv:8081/lajanda/index.m3u8",
+                                              "w":  "https://8cadiz.es/directo-la-janda/",
+                                              "logo":  "https://graph.facebook.com/8tvcadiz/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "9 La Loma TV",
+                                              "m":  "https://9laloma.tv/live.m3u8",
+                                              "w":  "https://9laloma.tv/directo/",
+                                              "logo":  "https://graph.facebook.com/9laloma/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Almería 24h TV",
+                                              "m":  "https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8",
+                                              "w":  "https://www.almeria24htv.com",
+                                              "logo":  "https://graph.facebook.com/107654981928274/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Almería TV",
+                                              "m":  "https://broadcast1.radioponiente.org/atv/index.m3u8",
+                                              "w":  "https://almeriatv.com",
+                                              "logo":  "https://graph.facebook.com/AlmerTV/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Andalucía Cocina",
+                                              "m":  "https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8",
+                                              "w":  "https://xn--vivaespaa-s6a.tv/user/live-tv/ch201-andalucia-cocina/11",
+                                              "logo":  "https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200"
+                                          },
+                                          {
+                                              "n":  "Canal 45 TV",
+                                              "m":  "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+                                              "w":  "https://www.canal45tv.com",
+                                              "logo":  "https://graph.facebook.com/canal45television/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal Doñana",
+                                              "m":  "https://secure5.todostreaming.es/live/division-alm.m3u8",
+                                              "w":  "https://www.canaldonana.com",
+                                              "logo":  "https://graph.facebook.com/donanacomunica/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal Luz Televisión",
+                                              "m":  "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
+                                              "w":  "https://canalluztelevision.es/en-directo",
+                                              "logo":  "https://graph.facebook.com/canalluztelevision/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal Málaga",
+                                              "m":  "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+                                              "w":  "https://www.canalmalaga.es/videos/251314-directo-television",
+                                              "logo":  "https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal San Roque",
+                                              "m":  "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8",
+                                              "w":  "https://www.tv.multimediasanroque.com/videos/category/4520-directo",
+                                              "logo":  "https://yt3.googleusercontent.com/6SgTMpyVCJlMGBcip6gvloYy2u-BP4vY-H2paJ2zO471owJq_YcgPhUUB0tBaKIKlNUKzeRf=s200"
+                                          },
+                                          {
+                                              "n":  "Canal Sur 2 Accesible",
+                                              "m":  "https://rtva-channel22.flumotion.cloud/playlist.m3u8",
+                                              "w":  "https://www.canalsurmas.es/videos/77595-canal-sur-2-accesible",
+                                              "logo":  "https://graph.facebook.com/canalsurradioytv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal Sur Andalucía",
+                                              "m":  "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/74cdbd1b401a7598ab8f3e9b5652c9909daa60dd4f6f96f28396a3f1cfd926f2.m3u8",
+                                              "w":  "https://www.canalsurmas.es/videos/131772-canal-sur-andalucia",
+                                              "logo":  "https://graph.facebook.com/canalsurradioytv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal Sur Más Noticias",
+                                              "m":  "https://rtva-channel42.flumotion.cloud/playlist.m3u8",
+                                              "w":  "https://www.canalsurmas.es/videos/131524-canal-sur-mas-live-14",
+                                              "logo":  "https://graph.facebook.com/CanalSurNoticias/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Cartaya TV",
+                                              "m":  "https://video3.lhdserver.es/cartayatv/live.m3u8",
+                                              "w":  "https://www.radiocartaya.es",
+                                              "logo":  "https://graph.facebook.com/radiocartaya/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Costa Noroeste TV",
+                                              "m":  "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+                                              "w":  "https://www.costanoroestetv.net",
+                                              "logo":  "https://graph.facebook.com/Costanoroestetv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Diez TV Andújar",
+                                              "m":  "https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8",
+                                              "w":  "https://dieztv.es/dieztv-andujar-directo/",
+                                              "logo":  "https://graph.facebook.com/dieztv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Diez TV Las Villas",
+                                              "m":  "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+                                              "w":  "https://dieztv.es/dieztv-lasvillas-directo/",
+                                              "logo":  "https://graph.facebook.com/dieztv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Diez TV Úbeda",
+                                              "m":  "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+                                              "w":  "https://dieztv.es/dieztv-ubeda-directo/",
+                                              "logo":  "https://graph.facebook.com/dieztv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Estepona TV",
+                                              "m":  "https://cloudvideo.servers10.com:8081/8022/index.m3u8",
+                                              "w":  "https://television.estepona.es/tvendirecto/",
+                                              "logo":  "https://graph.facebook.com/esteponatelevision/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Fuengirola TV",
+                                              "m":  "https://streaming004.gestec-video.com/hls/FTV.m3u8",
+                                              "w":  "https://fuengirolatv.com/directo-ftv/",
+                                              "logo":  "https://graph.facebook.com/fuengirolatvoficial/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Huelva Conecta",
+                                              "m":  "https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8",
+                                              "w":  "https://huelvaconecta.com",
+                                              "logo":  "https://yt3.ggpht.com/dQxpHlPEeQ6XTzXJu7eJa36C7nT7TjxecHbznRDwEqWmdV5Upl8VMafZMHhCfToJGcdTcy1_bJA=s200"
+                                          },
+                                          {
+                                              "n":  "Interalmería TV",
+                                              "m":  "https://interalmeria.tv/directo/live.m3u8",
+                                              "w":  "https://www.interalmeria.tv/directo/",
+                                              "logo":  "https://graph.facebook.com/Interalmeriatv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "M95 Marbella",
+                                              "m":  "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+                                              "w":  "https://www.m95tvmarbella.es",
+                                              "logo":  "https://graph.facebook.com/m95tvmarbella/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Marbella TV",
+                                              "m":  "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
+                                              "w":  "https://rtvmarbella.tv/tv-en-directo/",
+                                              "logo":  "https://graph.facebook.com/RTVMarbella/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Mijas 3.40 TV",
+                                              "m":  "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
+                                              "w":  "https://mijascomunicacion.com/mijas-340-tv-en-directo/",
+                                              "logo":  "https://graph.facebook.com/Mijas340TV/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Music TV Granada",
+                                              "m":  "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+                                              "w":  "https://musictvgranada.com",
+                                              "logo":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK\u0026s=10"
+                                          },
+                                          {
+                                              "n":  "Onda Algeciras TV",
+                                              "m":  "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+                                              "w":  "https://ondaalgecirastv.com/en-directo/",
+                                              "logo":  "https://graph.facebook.com/ondaalgecirastv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Onda Cádiz",
+                                              "m":  "https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8",
+                                              "w":  "https://ondacadiz.es/television-directo",
+                                              "logo":  "https://graph.facebook.com/ondacadiz/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Parlamento de Andalucía",
+                                              "m":  "https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8",
+                                              "w":  "https://www.parlamentodeandalucia.es/stream/canal4.html",
+                                              "logo":  "https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "PTV Córdoba",
+                                              "m":  "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8",
+                                              "w":  "https://ptvtelecom.com/canales/cordoba.html",
+                                              "logo":  "https://graph.facebook.com/PTVCOR/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "PTV Granada",
+                                              "m":  "https://streamer.zapitv.com/PTV-granada/index.m3u8",
+                                              "w":  "https://ptvtelecom.com/canales/granada.html",
+                                              "logo":  "https://graph.facebook.com/PTVGranada/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "PTV Linares",
+                                              "m":  "https://streamer.zapitv.com/ptv-linarez/index.m3u8",
+                                              "w":  "https://www.ptvtelecom.com/canales/linares.html",
+                                              "logo":  "https://graph.facebook.com/tvlinares/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "PTV Málaga",
+                                              "m":  "https://streamer.zapitv.com/PTV-malaga/index.m3u8",
+                                              "w":  "https://ptvtelecom.com/canales/malaga.html",
+                                              "logo":  "https://graph.facebook.com/PTVMalaga/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "PTV Sevilla",
+                                              "m":  "https://streamer.zapitv.com/PTV_sevilla/index.m3u8",
+                                              "w":  "https://ptvtelecom.com/canales/sevilla.html",
+                                              "logo":  "https://graph.facebook.com/SevillaPTV/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Sal TV",
+                                              "m":  "https://nimble.tuyapro.es/saltv/tv/playlist.m3u8",
+                                              "w":  "https://www.saltv.es/elementor-92444/",
+                                              "logo":  "https://graph.facebook.com/SalTelevision/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Telemotril",
+                                              "m":  "https://video.telemotril.com/telemotril-channel-1/index.m3u8",
+                                              "w":  "https://telemotril.com/telemotril-en-vivo/",
+                                              "logo":  "https://graph.facebook.com/telemotriltv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "TG7",
+                                              "m":  "https://flu-01.hucame.es/TG7/index.fmp4.m3u8",
+                                              "w":  "https://tg7.es",
+                                              "logo":  "https://graph.facebook.com/TG7tv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Torremolinos TV",
+                                              "m":  "https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8",
+                                              "w":  "https://torremolinostv.com/tv-en-directo/",
+                                              "logo":  "https://graph.facebook.com/torremolinostv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Tuya La Janda TV",
+                                              "m":  "https://nimble.tuyapro.es/app/tv/playlist.m3u8",
+                                              "w":  "https://tuyatv.com",
+                                              "logo":  "https://graph.facebook.com/tuyalajandatv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "TVM Córdoba",
+                                              "m":  "https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8",
+                                              "w":  "https://tvm.cordoba.es/live",
+                                              "logo":  "https://graph.facebook.com/TVM.Cordoba/picture?width=200\u0026height=200"
+                                          }
+                                      ],
+                        "Canarias":  [
+                                         {
+                                             "n":  "24h Canarias",
+                                             "m":  "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg"
+                                         },
+                                         {
+                                             "n":  "Afortunadas TV",
+                                             "m":  "https://cloudvideo.servers10.com:8081/8108/index.m3u8",
+                                             "w":  "https://afortunadastv.com/en-vivo/",
+                                             "logo":  "https://graph.facebook.com/afortunadastv/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Ahora TV",
+                                             "m":  "https://tv.mediacp.eu/hls/ahoratv/ahoratv.m3u8",
+                                             "w":  "https://ahoratelevision.es",
+                                             "logo":  "https://graph.facebook.com/ahoratvtenerife/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Atlántico Televisión",
+                                             "m":  "https://live.atlanticotelevision.com/hls/hi/index.m3u8",
+                                             "w":  "https://www.atlanticotelevision.com/en-vivo-tv/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1779498186727456768/bIHqyk7p_200x200.jpg"
+                                         },
+                                         {
+                                             "n":  "Canal 4 Tenerife",
+                                             "m":  "https://videoserver.tmcreativos.com:19360/hkbpjryheu/hkbpjryheu.m3u8",
+                                             "w":  "https://www.canal4tenerife.tv/directo/",
+                                             "logo":  "https://graph.facebook.com/CANAL4TENERIFE/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Factoría de Carnaval",
+                                             "m":  "https://eu1.servers10.com:8081/8116/index.m3u8",
+                                             "w":  "https://multicarnaval.com",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg"
+                                         },
+                                         {
+                                             "n":  "Fuerteventura TV",
+                                             "m":  "https://live.lancelot.tv/directo/fuerteventura.television/index.m3u8",
+                                             "w":  "https://fuerteventuratelevision.com",
+                                             "logo":  "https://yt3.ggpht.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s200"
+                                         },
+                                         {
+                                             "n":  "La 1 Canarias",
+                                             "m":  "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/tve-canarias/",
+                                             "logo":  "https://graph.facebook.com/la1detve/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "La 2 Canarias",
+                                             "m":  "https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main_dvr.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/tve-canarias/la-2-can/",
+                                             "logo":  "https://graph.facebook.com/la2detve/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Mírame TV",
+                                             "m":  "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696\u0026live=1",
+                                             "w":  "https://mirametv.com",
+                                             "logo":  "https://graph.facebook.com/mirametvcom/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Radio Calima TV",
+                                             "m":  "https://nrvideo1.newradio.it:443/calimafm/calimafm/playlist.m3u8",
+                                             "w":  "https://calima.fm/es/",
+                                             "logo":  "https://graph.facebook.com/calimafm/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Tenerife Más TV",
+                                             "m":  "https://k20.usastreams.com:8081/tenerifeplus/index.m3u8",
+                                             "w":  "https://www.tenerifeplus.tv",
+                                             "logo":  "https://graph.facebook.com/tenerifemastv/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "TV Canaria (RTVC)",
+                                             "m":  "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8",
+                                             "w":  "https://www.canariasplay.es/videos/314784-rtvc-en-directo",
+                                             "logo":  "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200\u0026height=200"
+                                         }
+                                     ],
+                        "Cantabria":  [
+                                          {
+                                              "n":  "De Laredu Lin TV",
+                                              "m":  "https://eu1.servers10.com:8081/8034/index.m3u8",
+                                              "w":  "https://delaredulintv.com/television-online/",
+                                              "logo":  "https://graph.facebook.com/delaredulintv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Popular TV Cantabria",
+                                              "m":  "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8",
+                                              "w":  "https://populartvcantabria.com/en-directo/",
+                                              "logo":  "https://graph.facebook.com/populartvcantabria/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Tevecan 9",
+                                              "m":  "https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8",
+                                              "w":  "https://closeradio.tv/jarbhouse/",
+                                              "logo":  "https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png"
+                                          }
+                                      ],
+                        "Castilla y León":  [
+                                                {
+                                                    "n":  "TV Aranda",
+                                                    "m":  "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686\u0026live=1",
+                                                    "w":  "https://www.telearanda.es",
+                                                    "logo":  "https://graph.facebook.com/575943555801687/picture?width=200\u0026height=200"
+                                                }
+                                            ],
+                        "Castilla-La Mancha":  [
+                                                   {
+                                                       "n":  "Alcarria TV",
+                                                       "m":  "https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8",
+                                                       "w":  "https://www.alcarria.tv/ver-en-directo/",
+                                                       "logo":  "https://graph.facebook.com/AlcarriaTV/picture?width=200\u0026height=200"
+                                                   },
+                                                   {
+                                                       "n":  "Canal 4 Mancha",
+                                                       "m":  "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+                                                       "w":  "https://villarrobledonoticias.com/canal-4-mancha/",
+                                                       "logo":  "https://graph.facebook.com/canal4villarrobledo/picture?width=200\u0026height=200"
+                                                   },
+                                                   {
+                                                       "n":  "Castilla-La Mancha Media (CMM)",
+                                                       "m":  "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8",
+                                                       "w":  "https://www.cmmedia.es/play/en-directo/tv",
+                                                       "logo":  "https://graph.facebook.com/CMMediaes/picture?width=200\u0026height=200"
+                                                   },
+                                                   {
+                                                       "n":  "Castilla-La Mancha Radio (CMM)",
+                                                       "m":  "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_fmx3e3sd/protocol/https/format/applehttp/a.m3u8",
+                                                       "w":  "https://www.cmmedia.es/play/en-directo/radio/emision-visual-radio-c-lm.html",
+                                                       "logo":  "https://graph.facebook.com/RadioCLMes/picture?width=200\u0026height=200"
+                                                   },
+                                                   {
+                                                       "n":  "Guada TV Media",
+                                                       "m":  "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12689\u0026live=1",
+                                                       "w":  "https://www.guadatv.tv/streaming/",
+                                                       "logo":  "https://graph.facebook.com/GuadaTV.TV/picture?width=200\u0026height=200"
+                                                   }
+                                               ],
+                        "Cataluña":  [
+                                         {
+                                             "n":  "24h Catalunya",
+                                             "m":  "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/tve-catalunya/24h-cat/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg"
+                                         },
+                                         {
+                                             "n":  "33",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/33/",
+                                             "logo":  "https://graph.facebook.com/Canal33/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Anime",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/tem2-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/tem2/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Càmeres del temps",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/beauties/",
+                                             "logo":  "https://graph.facebook.com/3CatInfoElTemps/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Doraemon",
+                                             "m":  "https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/fc3/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Exclusiu 1",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/oca1/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Exclusiu 2",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/oca2/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Exclusiu 3",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/oca3/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Exclusiu 4",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/oca4-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/oca4/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Joc de Cartes",
+                                             "m":  "https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/fc2/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Plats bruts",
+                                             "m":  "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/fc1/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Verdi Clàssics",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/tem1-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/tem1/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "3Cat Vinagreta",
+                                             "m":  "https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/fc4/",
+                                             "logo":  "https://graph.facebook.com/som3Cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "betevé",
+                                             "m":  "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
+                                             "w":  "https://beteve.cat/en-directe/",
+                                             "logo":  "https://graph.facebook.com/betevecat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Bon Dia TV",
+                                             "m":  "https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/bondiatv/",
+                                             "logo":  "https://www.bondiatv.org/img/icon/apple-touch-icon.png"
+                                         },
+                                         {
+                                             "n":  "Canal 10 Empordà",
+                                             "m":  "https://ventdelnord.tv:8080/escala/directe.m3u8",
+                                             "w":  "https://www.canal10.cat/endirecte",
+                                             "logo":  "https://graph.facebook.com/canal10emporda/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Canal 4 TV Catalunya",
+                                             "m":  "https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8",
+                                             "w":  "https://www.grup4.com",
+                                             "logo":  "https://graph.facebook.com/GRUP4COM/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Canal Reus",
+                                             "m":  "https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8",
+                                             "w":  "https://canalreus.cat/directe/",
+                                             "logo":  "https://graph.facebook.com/canalreus.cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Canal Taronja Anoia",
+                                             "m":  "https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8",
+                                             "w":  "https://www.anoia.canaltaronja.cat",
+                                             "logo":  "https://graph.facebook.com/canaltaronjaanoia/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Canal Taronja Central",
+                                             "m":  "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+                                             "w":  "https://www.central.canaltaronja.cat",
+                                             "logo":  "https://graph.facebook.com/taronja.cat/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Canal Taronja Osona i Moianés",
+                                             "m":  "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+                                             "w":  "https://www.osona.canaltaronja.cat",
+                                             "logo":  "https://graph.facebook.com/TaronjaTV/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Canal Terrassa",
+                                             "m":  "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+                                             "w":  "https://terrassadigital.cat/directe/",
+                                             "logo":  "https://graph.facebook.com/canalterrassa/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Empordà TV",
+                                             "m":  "https://video3.lhdserver.es/empordatv2/live.m3u8",
+                                             "w":  "https://www.empordadigital.cat/directe/",
+                                             "logo":  "https://graph.facebook.com/empordatv/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "La 1 Catalunya",
+                                             "m":  "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/tve-catalunya/",
+                                             "logo":  "https://graph.facebook.com/la1detve/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "La 2 Cat",
+                                             "m":  "https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/tve-catalunya/la-2-cat/",
+                                             "logo":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-PTZCuOfGtshG9A9z2phYEL97ppHhD0cug\u0026s"
+                                         },
+                                         {
+                                             "n":  "Piera TV",
+                                             "m":  "https://5d776b1861da1.streamlock.net/piera/smil:piera.smil/playlist.m3u8",
+                                             "w":  "https://piera.practic.cat",
+                                             "logo":  "https://yt3.ggpht.com/Yo_LIch5OT5hTA24FMlshk7MtHpuUbVoOd8U2HJGw6el7-cCkAhH8_ISKmww17wHn37FCOF_rg=s200"
+                                         },
+                                         {
+                                             "n":  "Ràdio 4",
+                                             "m":  "https://ztnr.rtve.es/ztnr/6982935.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/radio-4-webcam/79888/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1849411372498530304/xy9er_VU_200x200.jpg"
+                                         },
+                                         {
+                                             "n":  "TV Sabadell - Vallès",
+                                             "m":  "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
+                                             "w":  "https://www.sabadell.canaltaronja.cat/sabadell-valles/directe/",
+                                             "logo":  "https://graph.facebook.com/tvsabadellvalles/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "TV3",
+                                             "m":  "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/tv3/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png"
+                                         },
+                                         {
+                                             "n":  "VOTV",
+                                             "m":  "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+                                             "w":  "https://votv.cat/votv-en-directe/",
+                                             "logo":  "https://graph.facebook.com/votv.cat/picture?width=200\u0026height=200"
+                                         }
+                                     ],
+                        "Comunidad de Madrid":  [
+                                                    {
+                                                        "n":  "Canal 33 Madrid",
+                                                        "m":  "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+                                                        "w":  "https://www.canal33.info",
+                                                        "logo":  "https://yt3.googleusercontent.com/nMLOOCMI7LojDKtlKoYXJEmVin-_lbR4Y-TgAdQ7RvJvuinOI109sFGIl_HwbqlWn3g7qMDH=s200"
+                                                    },
+                                                    {
+                                                        "n":  "Déjate de Historias TV",
+                                                        "m":  "https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8",
+                                                        "w":  "https://dejatedehistorias.es/directo/",
+                                                        "logo":  "https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200\u0026height=200"
+                                                    },
+                                                    {
+                                                        "n":  "Distrito TV",
+                                                        "m":  "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+                                                        "w":  "https://distritotv.es",
+                                                        "logo":  "https://graph.facebook.com/2004860103163343/picture?width=200\u0026height=200"
+                                                    },
+                                                    {
+                                                        "n":  "iPROtv",
+                                                        "m":  "https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8",
+                                                        "w":  "https://iprotv.eu",
+                                                        "logo":  "https://graph.facebook.com/iprotvspain/picture?width=200\u0026height=200"
+                                                    },
+                                                    {
+                                                        "n":  "LIRA TV",
+                                                        "m":  "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+                                                        "w":  "https://liratv.es",
+                                                        "logo":  "https://graph.facebook.com/liratvlive/picture?width=200\u0026height=200"
+                                                    },
+                                                    {
+                                                        "n":  "Teleganés",
+                                                        "m":  "https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+                                                        "w":  "https://www.teleganes.com/en-directo/",
+                                                        "logo":  "https://graph.facebook.com/1423419417957760/picture?width=200\u0026height=200"
+                                                    }
+                                                ],
+                        "Comunidad Valenciana":  [
+                                                     {
+                                                         "n":  "8 La Marina TV",
+                                                         "m":  "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+                                                         "w":  "https://8lamarinatv.com",
+                                                         "logo":  "https://pbs.twimg.com/profile_images/1448634676550242313/9s7UjXdC_200x200.jpg"
+                                                     },
+                                                     {
+                                                         "n":  "À Punt",
+                                                         "m":  "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8",
+                                                         "w":  "https://www.apuntmedia.es/directe/directe-tv_136_1392524.html",
+                                                         "logo":  "https://graph.facebook.com/apuntmedia/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Alacantí TV",
+                                                         "m":  "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+                                                         "w":  "https://www.alacantitv.com/en-directo/",
+                                                         "logo":  "https://graph.facebook.com/alacantitv/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Burriana TeVe",
+                                                         "m":  "https://stream.burrianateve.com:8443/hls/abr_burrianateve/index.m3u8",
+                                                         "w":  "https://burrianateve.com/directe/",
+                                                         "logo":  "https://graph.facebook.com/burrianateve/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Canal 3 Biar",
+                                                         "m":  "https://avantstreaming.es/hls/canal3hd.m3u8",
+                                                         "w":  "https://canal3biar.es/directe/",
+                                                         "logo":  "https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200"
+                                                     },
+                                                     {
+                                                         "n":  "Canal 56",
+                                                         "m":  "https://videos.canal56.com/directe/stream/index.m3u8",
+                                                         "w":  "https://canal56.com/online/",
+                                                         "logo":  "https://graph.facebook.com/canal56televisio/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Ciudades Del Ocio TV",
+                                                         "m":  "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+                                                         "w":  "https://www.ciudadesdelocio.tv",
+                                                         "logo":  "https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Elche 7 TV",
+                                                         "m":  "https://elche7tv.gestec-video.com/hls/canal2.m3u8",
+                                                         "w":  "https://elche7tv.es/tv-en-directo/",
+                                                         "logo":  "https://graph.facebook.com/Elche7HD/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Intercomarcal TV",
+                                                         "m":  "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8",
+                                                         "w":  "https://www.intercomarcal.com",
+                                                         "logo":  "https://graph.facebook.com/Intercomarcal.Television/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "La 8 Mediterráneo",
+                                                         "m":  "https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8",
+                                                         "w":  "https://laocho.tv/tv-en-directo/",
+                                                         "logo":  "https://graph.facebook.com/la8mediterraneo/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Maestrat TV",
+                                                         "m":  "https://stream.maestrat.tv/hls/stream.m3u8",
+                                                         "w":  "https://www.maestrat.tv/directe",
+                                                         "logo":  "https://graph.facebook.com/maestrat.tv/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Onda Valencia",
+                                                         "m":  "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+                                                         "w":  "https://www.ondavalencia.es/en-directo/onda-valencia-tv",
+                                                         "logo":  "https://yt3.googleusercontent.com/aAS5uJNDnPz53xkeUbZ_1NaV8TJv35qhoFcmmE9UgIkpquYpNUOP6bRLwcB5WUcznnQdubdO=s200"
+                                                     },
+                                                     {
+                                                         "n":  "Punt 3 Vall Uixó",
+                                                         "m":  "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+                                                         "w":  "https://www.punt3.es/Directo/",
+                                                         "logo":  "https://graph.facebook.com/Punt3Television/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Tele Safor",
+                                                         "m":  "https://video.telesafor.com/hls/video.m3u8",
+                                                         "w":  "https://telesafor.com",
+                                                         "logo":  "https://graph.facebook.com/Telesaforcom/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "TeleElx",
+                                                         "m":  "https://tvdirecto.teleelx.es/stream/teleelx.m3u8",
+                                                         "w":  "https://teleelx.es/directo/",
+                                                         "logo":  "https://graph.facebook.com/teleelx/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "TV 4 La Vall",
+                                                         "m":  "https://valldeuxo.gestec-video.com/hls/lavall.m3u8",
+                                                         "w":  "https://teve4lavall.com",
+                                                         "logo":  "https://graph.facebook.com/TV4LaVall/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "TV Almassora",
+                                                         "m":  "https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8",
+                                                         "w":  "https://www.tvalmassora.com/en-directo/en-directo-television-almassora/",
+                                                         "logo":  "https://graph.facebook.com/tvalmassora/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "tvA",
+                                                         "m":  "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
+                                                         "w":  "https://www.tv-a.es",
+                                                         "logo":  "https://graph.facebook.com/tvArtequatre/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Une Vinalopó",
+                                                         "m":  "https://streamingtvi.gestec-video.com/hls/unesd.m3u8",
+                                                         "w":  "https://www.unevinalopo.es/directo/",
+                                                         "logo":  "https://graph.facebook.com/UneVinalopo/picture?width=200\u0026height=200"
+                                                     },
+                                                     {
+                                                         "n":  "Univers TV",
+                                                         "m":  "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+                                                         "w":  "https://www.universvalencia.es",
+                                                         "logo":  "https://graph.facebook.com/UniversValenciaDigital/picture?width=200\u0026height=200"
+                                                     }
+                                                 ],
+                        "Extremadura":  [
+                                            {
+                                                "n":  "Canal Extremadura",
+                                                "m":  "https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8",
+                                                "w":  "https://www.canalextremadura.app/videos/182630-canal-video-24h",
+                                                "logo":  "https://graph.facebook.com/CanalExtremadura/picture?width=200\u0026height=200"
+                                            },
+                                            {
+                                                "n":  "EXN24 (Extremadura Noticias)",
+                                                "m":  "https://dsdhx5k1zli7y.cloudfront.net/wct-73d928aa-5bc9-408c-97c6-61d898009440/continuous/41fa7b5f-29f3-4b34-8dee-a68fa27a7080/index.m3u8",
+                                                "w":  "https://www.canalextremadura.app/videos/289428-exn24",
+                                                "logo":  "https://graph.facebook.com/noticiasCEX/picture?width=200\u0026height=200"
+                                            },
+                                            {
+                                                "n":  "Semos asina (Canal Extremadura)",
+                                                "m":  "https://cdn-canalextremadura.watchity.net/fast3/master.m3u8",
+                                                "w":  "https://www.canalextremadura.app/videos/350407-canal-tem%C3%A1tico-semos-asina-canal-extremadura",
+                                                "logo":  "https://graph.facebook.com/CanalExtremadura/picture?width=200\u0026height=200"
+                                            },
+                                            {
+                                                "n":  "Toros (Canal Extremadura)",
+                                                "m":  "https://cdn-canalextremadura.watchity.net/fast1/master.m3u8",
+                                                "w":  "https://www.canalextremadura.app/videos/289341-canal-tem%C3%A1tico-toros-canal-extremadura",
+                                                "logo":  "https://graph.facebook.com/CanalExtremadura/picture?width=200\u0026height=200"
+                                            }
+                                        ],
+                        "Galicia":  [
+                                        {
+                                            "n":  "Anove TV",
+                                            "m":  "https://cloud.streamingconnect.tv/hls/anove/anove.m3u8",
+                                            "w":  "https://anove.gal",
+                                            "logo":  "https://graph.facebook.com/anove.tv/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "Telemiño",
+                                            "m":  "https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8",
+                                            "w":  "https://www.laregion.es/teleminho/",
+                                            "logo":  "https://graph.facebook.com/teleminho/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TV Ferrol",
+                                            "m":  "https://directo.tvferrol.es/tv.m3u8",
+                                            "w":  "https://tvferrol.es/es/contenido.php?c=4",
+                                            "logo":  "https://graph.facebook.com/tvferrol/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG",
+                                            "m":  "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/76475-tvg",
+                                            "logo":  "https://graph.facebook.com/CRTVG/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG 2",
+                                            "m":  "https://crtvg-tvg2.flumotion.cloud/playlist_dvr.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/77550-tv-g2",
+                                            "logo":  "https://graph.facebook.com/CRTVG/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG Cativ@s",
+                                            "m":  "https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/76536-xabarin-tv2",
+                                            "logo":  "https://graph.facebook.com/oxabarinclub/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG Eventos",
+                                            "m":  "https://crtvg-events1.flumotion.cloud/playlist.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/category/11998-directos",
+                                            "logo":  "https://graph.facebook.com/CRTVG/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG Mira Radio Galega",
+                                            "m":  "https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/76478-mira-rg",
+                                            "logo":  "https://graph.facebook.com/CRTVG/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG Mociñ@s",
+                                            "m":  "https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/76537-xabarin-tv3",
+                                            "logo":  "https://graph.facebook.com/oxabarinclub/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG Pequerrech@s",
+                                            "m":  "https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/76535-xabarin-r1",
+                                            "logo":  "https://graph.facebook.com/oxabarinclub/picture?width=200\u0026height=200"
+                                        },
+                                        {
+                                            "n":  "TVG Xabarin",
+                                            "m":  "https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8",
+                                            "w":  "https://www.agalega.gal/videos/76534-xabarin-tv",
+                                            "logo":  "https://graph.facebook.com/oxabarinclub/picture?width=200\u0026height=200"
+                                        }
+                                    ],
+                        "Illes Balears":  [
+                                              {
+                                                  "n":  "Canal 4 TV Mallorca",
+                                                  "m":  "https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8",
+                                                  "w":  "https://www.grup4.com",
+                                                  "logo":  "https://graph.facebook.com/GRUP4COM/picture?width=200\u0026height=200"
+                                              },
+                                              {
+                                                  "n":  "TEF",
+                                                  "m":  "https://tef.servertv.online:3268/live/teflive.m3u8",
+                                                  "w":  "https://teftv.com/la-tef-en-directe/",
+                                                  "logo":  "https://graph.facebook.com/TEFTV/picture?width=200\u0026height=200"
+                                              }
+                                          ],
+                        "País Vasco":  [
+                                           {
+                                               "n":  "28 Kanala",
+                                               "m":  "https://streaming.28kanala.eus/hls/z.m3u8",
+                                               "w":  "https://28kanala.eus/telebista/zuzenekoa",
+                                               "logo":  "https://graph.facebook.com/28kanala/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "Durangaldeko TV",
+                                               "m":  "https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+                                               "w":  "https://dotb.eus/tbkanala/",
+                                               "logo":  "https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "ETB 1",
+                                               "m":  "https://cdn1.etbon.eus/etb1/index.m3u8",
+                                               "w":  "https://etbon.eus/ch/etb-1",
+                                               "logo":  "https://graph.facebook.com/eitb/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "ETB 1 On",
+                                               "m":  "https://cdn1.etbon.eus/etb1on/index.m3u8",
+                                               "w":  "https://etbon.eus/ch/etb-1on",
+                                               "logo":  "https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200"
+                                           },
+                                           {
+                                               "n":  "ETB 2",
+                                               "m":  "https://cdn1.etbon.eus/etb2/index.m3u8",
+                                               "w":  "https://etbon.eus/ch/etb-2",
+                                               "logo":  "https://graph.facebook.com/eitb/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "ETB 2 On",
+                                               "m":  "https://cdn1.etbon.eus/etb2on/index.m3u8",
+                                               "w":  "https://etbon.eus/ch/etb-2on",
+                                               "logo":  "https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200"
+                                           },
+                                           {
+                                               "n":  "ETB Eventos 1",
+                                               "m":  "https://cdn1.etbon.eus/oc1/index.m3u8",
+                                               "w":  "https://etbon.eus/ch/oca-1",
+                                               "logo":  "https://graph.facebook.com/eitb/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "ETB Eventos 2",
+                                               "m":  "https://cdn1.etbon.eus/oc2/index.m3u8",
+                                               "w":  "https://etbon.eus/ch/oca-2",
+                                               "logo":  "https://graph.facebook.com/eitb/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "Euskadi Meteo (ETB On)",
+                                               "m":  "https://cdn1.etbon.eus/meteo/index.m3u8",
+                                               "w":  "https://www.etbon.eus/ch/euskadi-meteo",
+                                               "logo":  "https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200"
+                                           },
+                                           {
+                                               "n":  "Goiena Eus",
+                                               "m":  "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+                                               "w":  "https://goiena.eus/telebista/zuzenekoa",
+                                               "logo":  "https://graph.facebook.com/goiena.eus/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "Goierri Irrati TV",
+                                               "m":  "https://streaming.gitb.eus/hls/z.m3u8",
+                                               "w":  "https://gitb.eus/telebista/zuzenekoa",
+                                               "logo":  "https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "GUKA TB",
+                                               "m":  "https://streaming.ukt.eus/hls/test.m3u8",
+                                               "w":  "https://guka.eus/telebista/zuzenekoa",
+                                               "logo":  "https://graph.facebook.com/guka.eus/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "Hamaika TV",
+                                               "m":  "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+                                               "w":  "https://www.hamaika.eus/zuzenean",
+                                               "logo":  "https://graph.facebook.com/HamaikaTb/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "Oizmendi TB",
+                                               "m":  "https://zuzenean.oizmendi.eus/hls/z.m3u8",
+                                               "w":  "https://www.oizmendi.eus/zuzenean/",
+                                               "logo":  "https://graph.facebook.com/oizmenditelebista/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "Tele 7",
+                                               "m":  "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+                                               "w":  "https://tele7.tv/tele-7-en-directo/",
+                                               "logo":  "https://graph.facebook.com/Tele7Radio7/picture?width=200\u0026height=200"
+                                           },
+                                           {
+                                               "n":  "Urola TB",
+                                               "m":  "https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8",
+                                               "w":  "https://www.urolatelebista.com",
+                                               "logo":  "https://graph.facebook.com/urolatelebista/picture?width=200\u0026height=200"
+                                           }
+                                       ],
+                        "Región de Murcia":  [
+                                                 {
+                                                     "n":  "Arabí TV",
+                                                     "m":  "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
+                                                     "w":  "https://www.arabitv.es/en-directo/",
+                                                     "logo":  "https://graph.facebook.com/arabitvyecla/picture?width=200\u0026height=200"
+                                                 },
+                                                 {
+                                                     "n":  "Canal 1 Mar Menor Torre Pacheco",
+                                                     "m":  "https://directo.tuwebtv.es/canal1.m3u8",
+                                                     "w":  "https://www.tuwebtv.es/directo.php",
+                                                     "logo":  "https://graph.facebook.com/tuwebtv/picture?width=200\u0026height=200"
+                                                 },
+                                                 {
+                                                     "n":  "Popular TV Murcia",
+                                                     "m":  "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690\u0026live=1",
+                                                     "w":  "https://populartvrm.com/directo",
+                                                     "logo":  "https://pbs.twimg.com/profile_images/2116849690226380800/JoFN9Vgz_200x200.jpg"
+                                                 }
+                                             ]
+                    },
+    "internacional":  {
+                          "América":  [
+                                          {
+                                              "n":  "ADN Noticias México",
+                                              "m":  "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+                                              "w":  "https://live.adn40.mx",
+                                              "logo":  "https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg"
+                                          },
+                                          {
+                                              "n":  "America TeVe USA",
+                                              "m":  "https://live.gideo.video/americateve2/master.m3u8",
+                                              "w":  "https://www.americateve.com/vivo",
+                                              "logo":  "https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg"
+                                          },
+                                          {
+                                              "n":  "Bloomberg USA",
+                                              "m":  "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
+                                              "w":  "https://www.bloomberg.com/live/us/btv",
+                                              "logo":  "https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg"
+                                          },
+                                          {
+                                              "n":  "BUZZR TV USA",
+                                              "m":  "https://buzzrota-ono.amagi.tv/playlist.m3u8",
+                                              "w":  "https://buzzrtv.com/watch",
+                                              "logo":  "https://graph.facebook.com/BUZZRtv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal 11 Honduras",
+                                              "m":  "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
+                                              "w":  "https://canal11.hn/en-vivo/",
+                                              "logo":  "https://graph.facebook.com/canal11hn/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal 6 Honduras",
+                                              "m":  "https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8",
+                                              "w":  "https://canal6hn.com/en-vivo/",
+                                              "logo":  "https://graph.facebook.com/canal6hn/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal 6 Multimedios México",
+                                              "m":  "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+                                              "w":  "https://www.multimediostv.com/en-vivo/monterrey",
+                                              "logo":  "https://graph.facebook.com/multimediostv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Canal Once México",
+                                              "m":  "https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8",
+                                              "w":  "https://canalonce.mx/en-vivo",
+                                              "logo":  "https://graph.facebook.com/CANALONCETV/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "CBS News USA",
+                                              "m":  "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+                                              "w":  "https://www.cbsnews.com/live/",
+                                              "logo":  "https://graph.facebook.com/CBSNews/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Cheddar USA",
+                                              "m":  "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8",
+                                              "w":  "https://cheddar.com/live",
+                                              "logo":  "https://graph.facebook.com/cheddar/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Cosmos TV Perú",
+                                              "m":  "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
+                                              "w":  "https://cosmos.pe",
+                                              "logo":  "https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg"
+                                          },
+                                          {
+                                              "n":  "Court TV USA",
+                                              "m":  "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+                                              "w":  "https://www.courttv.com/title/court-tv-live-stream-web/",
+                                              "logo":  "https://graph.facebook.com/courttv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Ecuador TV",
+                                              "m":  "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
+                                              "w":  "https://www.ecuadortv.ec/en-vivo",
+                                              "logo":  "https://pbs.twimg.com/profile_images/1962545090485784576/uXP9DhVk_200x200.jpg"
+                                          },
+                                          {
+                                              "n":  "Estrella TV USA",
+                                              "m":  "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+                                              "w":  "https://www.estrellatv.com/en?section=livesection",
+                                              "logo":  "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Exitosa Noticias Perú",
+                                              "m":  "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+                                              "w":  "https://www.exitosanoticias.pe/tv/envivo",
+                                              "logo":  "https://graph.facebook.com/Exitosanoticias/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Globovisión Venezuela",
+                                              "m":  "https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8",
+                                              "w":  "https://globovision.com",
+                                              "logo":  "https://graph.facebook.com/globovision/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Latina Perú",
+                                              "m":  "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+                                              "w":  "https://www.latina.pe/tvenvivo",
+                                              "logo":  "https://graph.facebook.com/Latina.pe/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "México Travel Channel",
+                                              "m":  "https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8",
+                                              "w":  "https://mexicotravelchannel.mx/#en-vivo",
+                                              "logo":  "https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Newsmax2 USA",
+                                              "m":  "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+                                              "w":  "https://www.newsmaxtv.com",
+                                              "logo":  "https://graph.facebook.com/newsmax/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Oromar TV Ecuador",
+                                              "m":  "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+                                              "w":  "https://oromartv.com/tv-en-vivo/",
+                                              "logo":  "https://graph.facebook.com/oromartv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Quiero TV México",
+                                              "m":  "https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8",
+                                              "w":  "https://quierotv.mx/videoenvivo",
+                                              "logo":  "https://graph.facebook.com/quierotvGDL/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Real America\u0027s Voice USA",
+                                              "m":  "https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8",
+                                              "w":  "https://americasvoice.news",
+                                              "logo":  "https://graph.facebook.com/RealAmericasVoice/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Señal Colombia",
+                                              "m":  "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+                                              "w":  "https://www.senalcolombia.tv/senal-en-vivo",
+                                              "logo":  "https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "TeleDiario Costa Rica",
+                                              "m":  "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+                                              "w":  "https://www.telediario.cr/television",
+                                              "logo":  "https://graph.facebook.com/MultimediosCR/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "Telepacífico Colombia",
+                                              "m":  "https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8",
+                                              "w":  "https://telepacifico.com/live-telepacifico",
+                                              "logo":  "https://graph.facebook.com/TelepacificoTV/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "TeleSUR Venezuela",
+                                              "m":  "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+                                              "w":  "https://www.telesurtv.net",
+                                              "logo":  "https://graph.facebook.com/teleSUR/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "TV Cultura Brasil",
+                                              "m":  "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+                                              "w":  "https://cultura.uol.com.br/aovivo/",
+                                              "logo":  "https://graph.facebook.com/tvcultura/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "WeatherNation USA",
+                                              "m":  "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+                                              "w":  "https://www.weathernationtv.com",
+                                              "logo":  "https://graph.facebook.com/WeatherNation/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "WIPR Puerto Rico",
+                                              "m":  "https://streamwipr.pr/hls/stream/index.m3u8",
+                                              "w":  "https://wipr.pr",
+                                              "logo":  "https://graph.facebook.com/wiprtv/picture?width=200\u0026height=200"
+                                          },
+                                          {
+                                              "n":  "WTV Nicaragua",
+                                              "m":  "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+                                              "w":  "https://wtvnicaragua.com/player/tv-player.html",
+                                              "logo":  "https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200\u0026height=200"
+                                          }
+                                      ],
+                          "Europa":  [
+                                         {
+                                             "n":  "ARD Das Erste Alemania",
+                                             "m":  "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+                                             "w":  "https://www.ardmediathek.de/daserste/live/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1605959306435756038/_EiuBjQ8_200x200.png"
+                                         },
+                                         {
+                                             "n":  "ATV Andorra",
+                                             "m":  "https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8",
+                                             "w":  "https://www.rtva.ad/en-directe/atv",
+                                             "logo":  "https://graph.facebook.com/rtva.andorra/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "BFM TV Francia",
+                                             "m":  "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+                                             "w":  "https://www.bfmtv.com/en-direct/",
+                                             "logo":  "https://graph.facebook.com/BFMTV/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "BR Bayerischer Alemania",
+                                             "m":  "https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8",
+                                             "w":  "https://www.br.de",
+                                             "logo":  "https://graph.facebook.com/BR24/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "CNN Internacional",
+                                             "m":  "https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8",
+                                             "w":  "https://cnnespanol.cnn.com",
+                                             "logo":  "https://graph.facebook.com/cnninternational/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Current Time TV",
+                                             "m":  "https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8",
+                                             "w":  "https://www.currenttime.tv/live",
+                                             "logo":  "https://graph.facebook.com/currenttimetv/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Digi24 Rumanía",
+                                             "m":  "https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8",
+                                             "w":  "https://www.digi24.ro/live/digi24",
+                                             "logo":  "https://graph.facebook.com/Digi24HD/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "DW Alemania",
+                                             "m":  "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+                                             "w":  "https://www.dw.com/es/live-tv/channel-spanish",
+                                             "logo":  "https://graph.facebook.com/dw.espanol/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "GB News Reino Unido",
+                                             "m":  "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8",
+                                             "w":  "https://www.gbnews.com/watch/live",
+                                             "logo":  "https://graph.facebook.com/GBNewsOnline/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "HR Hessenschau Alemania",
+                                             "m":  "https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8",
+                                             "w":  "https://www.hessenschau.de/tv-sendung/livestream-fernsehen-118.html",
+                                             "logo":  "https://graph.facebook.com/Hessenschau/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "La7 Italia",
+                                             "m":  "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8",
+                                             "w":  "https://tg.la7.it/dirette-tv",
+                                             "logo":  "https://graph.facebook.com/tgla7/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "NDR Niedersachsen Alemania",
+                                             "m":  "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8",
+                                             "w":  "https://www.ndr.de/fernsehen/livestream",
+                                             "logo":  "https://graph.facebook.com/ndrniedersachsen/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "RTCG SAT Montenegro",
+                                             "m":  "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+                                             "w":  "https://rtcg.me/cir/tv/gledaj-tvcgmne.html",
+                                             "logo":  "https://graph.facebook.com/RTCG.me/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "RÚV Islandia",
+                                             "m":  "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
+                                             "w":  "https://www.ruv.is/sjonvarp/beint/ruv",
+                                             "logo":  "https://graph.facebook.com/RUVohf/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Sky News Reino Unido",
+                                             "m":  "https://dqco14bu26p3z.cloudfront.net/30505/89006005/hls/master.m3u8?ads.xumo_channelId=89006005\u0026ads.xumo_streamId=89006005",
+                                             "w":  "https://news.sky.com/watch-live",
+                                             "logo":  "https://graph.facebook.com/skynews/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Sportitalia",
+                                             "m":  "https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8",
+                                             "w":  "https://sportitalialive.it/sihd/",
+                                             "logo":  "https://graph.facebook.com/sportitaliatv/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "SR Saarland Alemania",
+                                             "m":  "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+                                             "w":  "https://www.sr.de",
+                                             "logo":  "https://graph.facebook.com/SRinfo.sr/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Star TVE Europa",
+                                             "m":  "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/play-plus-europa/star-hd/",
+                                             "logo":  "https://graph.facebook.com/STARTVEInternacional/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "Tagesschau24 Alemania",
+                                             "m":  "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+                                             "w":  "https://www.tagesschau.de/multimedia/livestreams/livestream1",
+                                             "logo":  "https://graph.facebook.com/tagesschau/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "TRT Haber Turquía",
+                                             "m":  "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+                                             "w":  "https://www.trthaber.com/canli-yayin-izle.html",
+                                             "logo":  "https://graph.facebook.com/trthaber/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "TRT World Turquía",
+                                             "m":  "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+                                             "w":  "https://www.trtworld.com",
+                                             "logo":  "https://graph.facebook.com/trtworld/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "TV Canaria Net",
+                                             "m":  "https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8",
+                                             "w":  "https://www.canariasplay.es/videos/314793-ott7",
+                                             "logo":  "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "TV3 CAT",
+                                             "m":  "https://directes-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8",
+                                             "w":  "https://www.3cat.cat/3cat/directes/tv3/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png"
+                                         },
+                                         {
+                                             "n":  "TV5Monde Francia",
+                                             "m":  "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8",
+                                             "w":  "https://europe.tv5monde.com/en/live",
+                                             "logo":  "https://graph.facebook.com/tv5mondeofficiel/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "TVE Internacional Europa",
+                                             "m":  "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8",
+                                             "w":  "https://www.rtve.es/play/videos/directo/tve-internacional-europa/",
+                                             "logo":  "https://graph.facebook.com/tveInternacional/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "VizionPlus Albania",
+                                             "m":  "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8",
+                                             "w":  "https://www.vizionplus.tv/livestream/",
+                                             "logo":  "https://graph.facebook.com/vizionplustv/picture?width=200\u0026height=200"
+                                         },
+                                         {
+                                             "n":  "WDR Westdeutscher Alemania",
+                                             "m":  "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8",
+                                             "w":  "https://www1.wdr.de/fernsehen/livestream/",
+                                             "logo":  "https://pbs.twimg.com/profile_images/1368636275243315201/mWySSrnO_200x200.jpg"
+                                         }
+                                     ]
+                      }
+}
