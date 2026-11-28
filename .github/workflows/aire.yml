@@ -62,7 +62,8 @@ jobs:
               descarga(hoy, 0); base = hoy
           except Exception as e:
               print("La de hoy aún no está (", e, "); uso la de ayer")
-              descarga(hoy - datetime.timedelta(days=1), 24); base = hoy - datetime.timedelta(days=1)
+              # (la de ayer desde la hora 24: sus datos empiezan hoy a las 0 UTC, así que el primer día es hoy)
+              descarga(hoy - datetime.timedelta(days=1), 24); base = hoy
 
           shutil.rmtree("/tmp/nc", ignore_errors=True); os.makedirs("/tmp/nc")
           if zipfile.is_zipfile("/tmp/cams.dat"):
@@ -97,6 +98,7 @@ jobs:
           def indice(c, t):
               x = np.interp(c, t, [0, 20, 40, 60, 80, 100])
               return np.where(c > t[-1], 100 + (c - t[-1]) / (t[-1] - t[-2]) * 20, x)
+          A3 = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"
           def nivel_polen(v):   # 0 nada, 1 bajo, 2 moderado, 3 alto, 4 muy alto (granos/m3)
               return np.digitize(v, [10, 50, 200, 500])
 
@@ -116,7 +118,24 @@ jobs:
                   if c not in datos: continue
                   v = np.nanmax(rejilla(datos[c][tramo]), axis=0)
                   polen[c] = "".join(str(int(x)) for x in np.where(np.isnan(v), 0, nivel_polen(np.nan_to_num(v))).ravel())
-              dias.append({"fecha": (base + datetime.timedelta(days=n)).isoformat(), "ica": ica.ravel().tolist(), "polen": polen})
+              dia = {"fecha": (base + datetime.timedelta(days=n)).isoformat(), "ica": ica.ravel().tolist(), "polen": polen}
+              # Cada 3 horas (en hora UTC: 0-3, 3-6... 21-24), solo hoy y mañana (lo que puede usar la app hasta la tarea siguiente).
+              # Partículas: media de las 24 horas anteriores (como el índice europeo); gases: el máximo del tramo.
+              # Compacto: una letra por punto, ICA/2 en el alfabeto A3 (0-126; «~» sin dato). La app lee ica3 y, si no está, ica
+              if n < 2:
+                  ica3 = []
+                  for t3 in range(8):
+                      fin = n * 24 + t3 * 3 + 3
+                      it = None
+                      for c, t in TRAMOS.items():
+                          if c not in datos: continue
+                          if c in ("pm25", "pm10"): v = np.nanmean(rejilla(datos[c][max(0, fin - 24):fin]), axis=0)
+                          else: v = np.nanmax(rejilla(datos[c][fin - 3:fin]), axis=0)
+                          i = indice(v, t)
+                          it = i if it is None else np.fmax(it, i)
+                      ica3.append("".join("~" if np.isnan(x) else A3[min(63, int(round(x / 2)))] for x in it.ravel()))
+                  dia["ica3"] = ica3
+              dias.append(dia)
 
           dias = [d for d in dias if d["fecha"] >= hoy.isoformat()]
           salida = {"generado": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"), "base": base.isoformat(),
